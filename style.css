@@ -69,7 +69,7 @@ h1 {
     transition: .5s;
 }
 #hire:hover {
-    color: #000;
+    color: #fff;
     box-shadow: 6px 6px 16px #00000034,
     6px 6px 16px inset #00000034,
     -6px -6px 16px #ffffff20,
