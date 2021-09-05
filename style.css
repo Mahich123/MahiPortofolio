@@ -53,6 +53,10 @@ h1 {
         font-style: normal;
         font-weight: bold;
 }
+/* a #hire {
+    text-decoration: none;
+    
+} */
 #hire {
     display: flex;
     align-items: center;
@@ -67,7 +71,13 @@ h1 {
     font-size: 12px;
     border-radius: 7px;
     transition: .5s;
+    text-decoration: none;
 }
+
+
+/* #hire {
+    background-color: blue
+    } */
 #hire:hover {
     color: #fff;
     box-shadow: 6px 6px 16px #00000034,
@@ -353,7 +363,7 @@ ul li a {
 }
  a:hover {
     background-color: black;
-   transform: translateY(-20px);
+   /* transform: translateY(-20px */
 }
 #hire2 {
  text-align: center;
